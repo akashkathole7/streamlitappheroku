@@ -1,0 +1,7 @@
+pandas<1.2.0
+streamlit==1.12.2
+plotly==4.14.3
+Pillow==9.0.1
+json5==0.9.6
+streamlit-lottie==0.0.3   
+pathlib==1.0.1          
